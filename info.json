@@ -1,0 +1,9 @@
+{
+  "name": "planet-market",
+  "version": "0.1.2",
+  "title": "Planet Market",
+  "author": "CaptainCC",
+  "factorio_version": "2.1",
+  "description": "Spawns a coin market near each planet spawn, pays coins every minute, and lets admins place extra markets. Inspired by majoro's original scenario, edited by 船长.",
+  "dependencies": ["base >= 2.1.0", "? space-age", "? quality"]
+}

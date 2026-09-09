@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2026-09-07
+  Features:
+    - Initial public release as Planet Market.
+    - Auto-spawn a coin market on Nauvis and Space Age planets.
+    - Pay coins to connected players every minute.
+    - Admin commands /spawn-market and /give-market.
+    - Space Age offers including legendary equipment.
+    - Tier 3 modules in the market catalog.
