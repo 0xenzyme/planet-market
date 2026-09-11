@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2026-09-11
+  Features:
+    - Add legendary personal roboport MK2, exoskeleton, energy shield MK2, and toolbelt equipment.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 2026-09-07
   Features:

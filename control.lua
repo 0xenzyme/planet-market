@@ -17,11 +17,14 @@ local BASE_OFFERS = {
   {price = 1, item = "construction-robot", count = 2},
   {price = 1, item = "personal-roboport-equipment", count = 1},
   {price = 20, item = "personal-roboport-mk2-equipment", count = 1},
+  {price = 100, item = "personal-roboport-mk2-equipment", count = 1, quality = "legendary"},
   {price = 3, item = "exoskeleton-equipment", count = 1},
+  {price = 15, item = "exoskeleton-equipment", count = 1, quality = "legendary"},
   {price = 1, item = "belt-immunity-equipment", count = 1},
   {price = 1, item = "night-vision-equipment", count = 1},
   {price = 1, item = "energy-shield-equipment", count = 1},
   {price = 5, item = "energy-shield-mk2-equipment", count = 1},
+  {price = 25, item = "energy-shield-mk2-equipment", count = 1, quality = "legendary"},
   {price = 10, item = "personal-laser-defense-equipment", count = 1},
   {price = 10, item = "speed-module-3", count = 1},
   {price = 10, item = "productivity-module-3", count = 1},
@@ -31,6 +34,7 @@ local BASE_OFFERS = {
 
 local SPACE_AGE_OFFERS = {
   {price = 5, item = "toolbelt-equipment", count = 1},
+  {price = 25, item = "toolbelt-equipment", count = 1, quality = "legendary"},
   {price = 100, item = "mech-armor", count = 1},
   {price = 50, item = "fusion-reactor-equipment", count = 1},
   {price = 30, item = "battery-mk3-equipment", count = 1},
